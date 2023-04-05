@@ -44,7 +44,6 @@ Name: NIRANJANA DEVI S
 
 Reg no:212221220036
 
-
 import pandas as pd
 import numpy as np
 import seaborn as snb
